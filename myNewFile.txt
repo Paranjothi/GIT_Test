@@ -14,6 +14,7 @@ GIT exp
 example------------------------------------------
 ------------------------------------------------
 training
+<<<<<<< HEAD
 ----------------------dfs seconf commit addded
 
 
@@ -24,3 +25,6 @@ dsadfasd
 rd third one 
  going to commit 
 :
+=======
+-----------------------
+>>>>>>> parent of afb04d7... econd commit Please enter the commit message for your changes. Lines starting
